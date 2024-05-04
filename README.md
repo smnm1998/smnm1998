@@ -39,8 +39,9 @@
 </div>
 
 <h3 align='center'>
-  You have to be crazy to live 😵‍💫
+  𝒀𝒐𝒖 𝒉𝒂𝒗𝒆 𝒕𝒐 𝒃𝒆 𝒄𝒓𝒂𝒛𝒚 𝒕𝒐 𝒍𝒊𝒗𝒆  😵‍💫
 </h3>
+
 <div>
   <p align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejg2aWVvanZ2N2JibjgxMjNseGxib2NmemVmOHh5aXZwNzNtZWZkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIqCQx02E1U9W/giphy.gif" alt="GIF">

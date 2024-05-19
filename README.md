@@ -9,7 +9,7 @@
 <div align="center">
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnm1998" alt="Top Langs">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnm1998&count_private=true" alt="Top Langs">
     </a>
   </div><br>
   <img src="https://github-readme-stats.vercel.app/api?username=smnm1998&show_icons=true&theme=shadow_green" alt="Anurag's GitHub stats">

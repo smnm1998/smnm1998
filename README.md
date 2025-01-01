@@ -1,59 +1,45 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=8EC96D&height=150&section=header&text=LeeSeMin%0AGitHub:)&animation=blinking&fontColor=ffffff&fontSize=50" />
-</div>
+## LEESEMIN GITHUB 👋
 
-<h3 align='center'>
-  Github Stats 〽️
-</h3>
+### 💻 &nbsp;About Me 
 
-<div align="center">
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnm1998" alt="Top Langs">
-    </a>
-  </div><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=smnm1998&count_private=true&show_icons=true&theme=shadow_green" alt="Anurag's GitHub stats">
-</div>
+- 😎 &nbsp; I'm looking for a front-end developer
+- 🎓 &nbsp; Studying Software Engineering at Andong Nation University
 
 
-<h3 align='center'>
-  Tech Stack 🧱
-</h3>
-<div align='center'>
-  <h4>
-    😎 Frontend 😎
-  </h4>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-    <img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=black">
-  <h4>
-    ⚒️ Tools ⚒️
-  </h4>
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-    <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-  <h4>
-    ✏️ Studying ✏️
-  </h4>
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
-</div>
+### 🛠 &nbsp;Tech Stack
 
-<h3 align='center'>
-  𝙬𝙝𝙖𝙩 𝙙𝙤𝙚𝙨𝙣'𝙩 𝙠𝙞𝙡𝙡 𝙮𝙤𝙪 𝙢𝙖𝙠𝙚𝙨 𝙮𝙤𝙪 𝙨𝙩𝙧𝙤𝙣𝙜𝙚𝙧
-</h3>
+- 🌐 &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+- 🛢 &nbsp;
+  ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<div>
-  <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejg2aWVvanZ2N2JibjgxMjNseGxib2NmemVmOHh5aXZwNzNtZWZkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIqCQx02E1U9W/giphy.gif" alt="GIF">
-  </p>
-</div>
+
+## My Stats
+<p>
+<a href="https://github.com/smnm1998">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smnm1998&show_icons=true&theme=gotham" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smnm1998&theme=gotham&layout=compact" />
+</a>
+</p>
+
+
+##  🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="mailto:dltpals7498@gamil.com"><img src="https://img.shields.io/badge/dltpals7498@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+<!--
+**cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -14,11 +14,11 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: smnm1998 # 사용자 이름으로 변경
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "smnm1998" # 사용자 이름으로 변경
+          git config user.email "dltpals7498@gmail.com" # 사용자 이메일로 변경
           git add -A .
           git commit -m "generated"
           git push

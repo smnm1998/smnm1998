@@ -3,7 +3,7 @@
 ### 💻 &nbsp;About Me 
 
 - 😎 &nbsp; I'm looking for a front-end developer
-- 🎓 &nbsp; Studying Software Engineering at Andong Nation University
+- 🎓 &nbsp; Studying Software Engineering at Andong National University
 
 
 ### 🛠 &nbsp;Tech Stack

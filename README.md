@@ -13,10 +13,10 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
   ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
 - ⚙️ &nbsp;

@@ -27,7 +27,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-## My Stats
+## My Stats 〽️
 <p align="center">
 <a href="https://github.com/smnm1998">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smnm1998&show_icons=true&theme=gotham" />
@@ -36,7 +36,7 @@
 </p>
 
 
-##  🤝🏻 &nbsp;Connect with Me
+##  &nbsp;Connect with Me 🤝🏻
 
 <p align="center">
 <a href="mailto:dltpals7498@gamil.com"><img src="https://img.shields.io/badge/dltpals7498@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>

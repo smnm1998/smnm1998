@@ -30,8 +30,8 @@
 ## My Stats 〽️
 <p align="center">
 <a href="https://github.com/smnm1998">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smnm1998&show_icons=true&theme=gotham" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smnm1998&theme=gotham&layout=compact" />
+  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=smnm1998&show_icons=true&theme=gotham" />
+  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smnm1998&theme=gotham&layout=compact" />
 </a>
 </p>
 

@@ -2,8 +2,8 @@
 
 ### 💻 &nbsp;About Me 
 
-- 😎 &nbsp; I'm looking for a front-end developer
-- 🎓 &nbsp; Studying Software Engineering at Andong National University
+- 😎 &nbsp; 프론트엔드 개발자를 지망하고 있습니다.
+- 🎓 &nbsp; 현재 국립안동대학교 AI융합학과 졸업 예정에 있습니다.
 
 
 ### 🛠 &nbsp;Tech Stack

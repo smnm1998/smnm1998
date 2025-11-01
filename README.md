@@ -8,16 +8,14 @@
 현재 국립안동대학교 AI융합학과 졸업 예정에 있습니다.
 
 
-### 🛠 &nbsp;Tech Stack
-
-
+## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react" width="50%" />
   <img src="https://skillicons.dev/icons?i=nodejs,git,github,supabase,vercel" width="50%" />
 </div>
 
-## My Stats 〽️
+## My Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Canoe.png" alt="Canoe" width="25" height="25" />️
 <p align="center">
   <a href="https://github.com/smnm1998">
     <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=smnm1998&show_icons=true&theme=react" />
@@ -25,10 +23,10 @@
   </a>
 </p>
 
-##  &nbsp;Connect with Me 🤝🏻
+##  &nbsp;Connect with Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="77.5%" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="60%" />
 </p>
 <p align="center">
   <a href="mailto:dltpals7498@gamil.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>

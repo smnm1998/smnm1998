@@ -1,45 +1,47 @@
-## LEESEMIN GITHUB 👋
+## LEESEMIN GITHUB <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
-### 💻 &nbsp;About Me 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> &nbsp;About Me 
 
-- 😎 &nbsp; 프론트엔드 개발자를 지망하고 있습니다.
-- 🎓 &nbsp; 현재 국립안동대학교 AI융합학과 졸업 예정에 있습니다.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> &nbsp;
+프론트엔드 개발자를 지망하고 있습니다.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Student.png" alt="Man Student" width="25" height="25" /> &nbsp; 
+현재 국립안동대학교 AI융합학과 졸업 예정에 있습니다.
 
 
 ### 🛠 &nbsp;Tech Stack
 
-- 🌐 &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-- 🛢 &nbsp;
-  ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react" width="50%" />
+  <img src="https://skillicons.dev/icons?i=nodejs,git,github,supabase,vercel" width="50%" />
+</div>
 
 ## My Stats 〽️
 <p align="center">
-<a href="https://github.com/smnm1998">
-  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=smnm1998&show_icons=true&theme=gotham" />
-  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smnm1998&theme=gotham&layout=compact" />
-</a>
+  <a href="https://github.com/smnm1998">
+    <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=smnm1998&show_icons=true&theme=react" />
+    <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smnm1998&theme=react&layout=compact" />
+  </a>
 </p>
-
 
 ##  &nbsp;Connect with Me 🤝🏻
 
 <p align="center">
-<a href="mailto:dltpals7498@gamil.com"><img src="https://img.shields.io/badge/dltpals7498@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="77.5%" />
+</p>
+<p align="center">
+  <a href="mailto:dltpals7498@gamil.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_smlee?igsh=MXV6a3JsNzZyc3RpZA%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
 <!--
-**cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  **cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+<!--
+  **출처**
+  emoji: https://animated-fluent-emoji.vercel.app/
+  skill-icons: https://github.com/tandpfun/skill-icons
+  moving-logos: https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file#moving-logos-
+-->

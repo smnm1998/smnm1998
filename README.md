@@ -18,8 +18,8 @@
 ## My Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Canoe.png" alt="Canoe" width="25" height="25" />️
 <p align="center">
   <a href="https://github.com/smnm1998">
-    <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=smnm1998&show_icons=true&theme=react" />
-    <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smnm1998&theme=react&layout=compact" />
+  <img height="160em" src="http://mazassumnida.wtf/api/generate_badge?boj=dltpals3652" alt="Solved.ac Profile">
+    <img height="160em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smnm1998&theme=react&layout=compact" />
   </a>
 </p>
 

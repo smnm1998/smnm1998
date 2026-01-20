@@ -7,7 +7,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,git,github,supabase,vercel" width="50%" />
 </div>
 
-<hr />
+##
 
 ### My Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Canoe.png" alt="Canoe" width="25" height="25" />️
 <p align="center">
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<hr />
+##
 
 ###  &nbsp;Connect with Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />
 

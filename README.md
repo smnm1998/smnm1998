@@ -22,7 +22,7 @@
 ###  &nbsp;Connect with Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="48%" />
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGIwMzVreWJsazBzZTRrMTQ4cWIxajZ4b3ZpYTdoeXN4MGg5amZ2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vRlT2k2L35Cnn5C/giphy.gif" height="226em" />
 </p>
 <p align="center">

@@ -8,7 +8,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,git,github,supabase,vercel&theme=light" width="60%" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,git,github,supabase,vercel" width="60%" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Canoe.png" alt="Canoe" width="25" height="25" /> My Stats️

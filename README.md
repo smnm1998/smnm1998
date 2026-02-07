@@ -14,7 +14,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Canoe.png" alt="Canoe" width="25" height="25" /> My Stats️
 <p align="center">
   <a href="https://github.com/smnm1998">
-    <img height="160em" width="340em" src="https://github-readme-stats.vercel.app/api?username=smnm1998&theme=react&layout=compact" />
+    <img height="160em" width="370em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smnm1998&theme=react&layout=compact" />
     <img height="160em" width="370em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smnm1998&theme=react&layout=compact" />
   </a>
 </p>

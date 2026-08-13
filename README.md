@@ -8,7 +8,8 @@
 ## 🔥 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,git,github,supabase,vercel" width="60%" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwindcss,nodejs,nest" width="50%" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vite,vitest,supabase,vercel,vscode" width="50%" />
 </div>
 
 ## 🛶 My Stats

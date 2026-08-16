@@ -16,8 +16,8 @@
 <p align="center">
   <a href="https://tokscale.ai/u/smnm1998"><img alt="Tokscale Stats for @smnm1998" src="https://tokscale.ai/api/embed/smnm1998/svg?template=graph&color=blue&tokens=full&cost=compact" /></a>
   <a href="https://github.com/smnm1998">
-    <img height="160em" width="370em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smnm1998&theme=react&layout=compact" />
-    <img height="160em" width="370em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smnm1998&theme=react&layout=compact" />
+    <img height="160em" width="340em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smnm1998&theme=react&layout=compact" />
+    <img height="160em" width="340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smnm1998&theme=react&layout=compact" />
   </a>
 </p>
 

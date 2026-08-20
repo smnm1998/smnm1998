@@ -1,3 +1,6 @@
+## 개발자 이세민입니다.
+
+<!--
 ## 👋 LEESEMIN GITHUB!
 
 항상 **사용자** 입장에서 **생각**하는 **프론트엔드 개발자 이세민**입니다.
@@ -28,7 +31,7 @@
   <a href="https://www.instagram.com/sleeptghtman?igsh=MXV6a3JsNzZyc3RpZA%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<!--
+
   **cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
